@@ -1,0 +1,39 @@
+.gradient-bg, body {
+    background: rgb(243,250,235);
+background: linear-gradient(110deg, rgba(243,250,235,1) 3%, rgba(159,217,230,1) 67%);
+}
+
+
+
+.jumbotron {
+    background: white;
+background: radial-gradient(circle, white);
+}
+
+.navbar {
+    overflow: hidden;
+    position: fixed;
+    top: 0; 
+    width: 100%; 
+    display: inline-block;
+    float: none;
+  }
+
+
+.no-border {
+    border: none;
+}
+
+
+
+.page {
+  position: relative;
+  page-break-after: always;
+  width: 8.5in;
+  height: 11in;
+  overflow: hidden;
+}
+
+body {
+    margin-top: 50px;
+  }
