@@ -3,5 +3,5 @@ Built using react and bootstrapped with [Create React App](https://github.com/fa
 
 ## To View Site
 
-Follow this link:
+Follow this link:https://imdanell.github.io/ReactPortfolio-20/
 
