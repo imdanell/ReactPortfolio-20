@@ -1,5 +1,5 @@
 # React Portfolio
-Built using react and bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Built using react and bootstrapped with help from [Create React App](https://github.com/facebook/create-react-app).
 
 ## To View Site
 
